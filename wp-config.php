@@ -26,7 +26,7 @@ define('DB_NAME', 'bpad');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'darling15');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
